@@ -1,0 +1,16 @@
+<code_scheme name="Default (1)">
+  <JSON>
+    <option name="OBJECT_WRAPPING" value="0" />
+    <option name="ARRAY_WRAPPING" value="0" />
+  </JSON>
+  <XML>
+    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
+  </XML>
+  <editorconfig>
+    <option name="ENABLED" value="false" />
+  </editorconfig>
+  <codeStyleSettings language="JSON">
+    <option name="SPACE_WITHIN_BRACKETS" value="true" />
+    <option name="SPACE_WITHIN_BRACES" value="true" />
+  </codeStyleSettings>
+</code_scheme>

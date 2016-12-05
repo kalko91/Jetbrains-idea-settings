@@ -1,0 +1,16 @@
+<application>
+  <component name="FileTypeManager" version="14">
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.bundle;.git;.hg;.svn;.tox;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
+    <extensionMap>
+      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="tmp" type="PLAIN_TEXT" />
+      <mapping pattern="fonts" type="PLAIN_TEXT" />
+      <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping ext="ttf" type="PLAIN_TEXT" />
+      <mapping ext="py" type="PLAIN_TEXT" />
+      <mapping ext="estimate" type="PLAIN_TEXT" />
+      <mapping ext="data" type="PLAIN_TEXT" />
+      <mapping ext="rm" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
