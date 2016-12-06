@@ -1,8 +1,0 @@
-<list display="Deployment" description="Deployment actions">
-  <action id="Git.Pull" />
-  <action id="ChangesView.Commit" />
-  <action id="Git.Fetch" />
-  <action id="Vcs.ShowTabbedFileHistory" />
-  <action id="Git.Revert" />
-  <action id="QuickList.$Separator$" />
-</list>
