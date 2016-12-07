@@ -1,0 +1,5 @@
+<list display="git">
+  <action id="Git.Pull" />
+  <action id="ChangesView.Commit" />
+  <action id="Git.Fetch" />
+</list>

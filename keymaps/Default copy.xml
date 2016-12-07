@@ -1,6 +1,6 @@
 <keymap version="1" name="Default copy" parent="Default for XWin">
   <action id="MaximizeToolWindow" />
-  <action id="QuickList.Deployment">
+  <action id="QuickList.git">
     <keyboard-shortcut first-keystroke="shift ctrl back_slash" />
   </action>
   <action id="ReformatCode">
