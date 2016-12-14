@@ -47,4 +47,20 @@
     <option name="SEND_ENVIRONMENT_VARIABLES_TO_SERVER" value="false" />
     <option name="SHOW_PATH" value="true" />
   </component>
+  <component name="RecentTaskRepositories">
+    <JIRA shared="false" url="https://pilgrimconsulting.atlassian.net">
+      <option name="apiType" value="REST_2_0" />
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <password>dfeddfccdfc2dfc0dfc1dfc7dfe9dfdedfc2dfdedf91dfd8dfc8</password>
+      <option name="jiraVersion" value="1000.621.2" />
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="searchQuery" value="assignee = currentUser() and resolution = Unresolved order by updated" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="true" />
+      <option name="useProxy" value="false" />
+      <username>sergey.y</username>
+    </JIRA>
+  </component>
 </application>
