@@ -1,0 +1,26 @@
+<templateSet group="Bootstrap3">
+  <template name="bs3-form:angular" value="&lt;form name=&quot;frm$var1$&quot; id=&quot;form&quot; method=&quot;post&quot; enctype=&quot;multipart/form-data&quot; novalidate=&quot;novalidate&quot;&#10;          ng-submit=&quot;vm.send(frm$var1$)&quot; autocomplete=&quot;off&quot;&gt;&#10;&#9;&lt;legend&gt;$var3$&lt;/legend&gt;&#10;&#10;&#9;&lt;div class=&quot;form-group&quot;&gt;&#10;&#9;&#9;&lt;label for=&quot;&quot;&gt;&lt;/label&gt;&#10;&#9;&#9;&lt;input type=&quot;text&quot; class=&quot;form-control&quot; name=&quot;&quot; id=&quot;&quot; placeholder=&quot;Input...&quot;&gt;&#10;&#9;&lt;/div&gt;&#10;&#10;&#9;$END$&#10;&#10;&#9;&lt;button type=&quot;submit&quot; class=&quot;btn btn-primary&quot;&gt;$var4$&lt;/button&gt;&#10;&lt;/form&gt;" description="Form" toReformat="false" toShortenFQNames="true">
+    <variable name="var1" expression="&quot;&quot;" defaultValue="" alwaysStopAt="true" />
+    <variable name="var3" expression="&quot;Form Title&quot;" defaultValue="" alwaysStopAt="true" />
+    <variable name="var4" expression="&quot;Submit&quot;" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML_TEXT" value="true" />
+      <option name="HTML" value="true" />
+      <option name="XSL_TEXT" value="false" />
+      <option name="XML" value="false" />
+      <option name="SQL" value="false" />
+      <option name="JSP" value="false" />
+      <option name="CSS_PROPERTY_VALUE" value="false" />
+      <option name="CSS_DECLARATION_BLOCK" value="false" />
+      <option name="CSS_RULESET_LIST" value="false" />
+      <option name="CSS" value="false" />
+      <option name="CUCUMBER_FEATURE_FILE" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="TypeScript" value="false" />
+      <option name="CoffeeScript" value="false" />
+      <option name="PHP" value="true" />
+      <option name="HAML" value="false" />
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>
