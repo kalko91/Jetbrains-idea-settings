@@ -4,16 +4,16 @@
     <variable name="var3" expression="&quot;Form Title&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="var4" expression="&quot;Submit&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="XML" value="false" />
       <option name="CSS" value="false" />
+      <option name="HAML" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="TypeScript" value="false" />
+      <option name="SQL" value="false" />
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
       <option name="JSP" value="false" />
-      <option name="SQL" value="false" />
-      <option name="JAVA_SCRIPT" value="false" />
-      <option name="HAML" value="false" />
       <option name="CoffeeScript" value="false" />
-      <option name="TypeScript" value="false" />
-      <option name="OTHER" value="true" />
-      <option name="XML" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
     </context>
   </template>
 </templateSet>
