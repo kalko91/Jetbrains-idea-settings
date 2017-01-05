@@ -3,8 +3,8 @@
     <variable name="functionName" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="args" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="JSP" value="false" />
       <option name="JS_STATEMENT" value="true" />
+      <option name="JSP" value="false" />
     </context>
   </template>
 </templateSet>
