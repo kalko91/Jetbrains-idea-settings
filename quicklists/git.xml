@@ -2,4 +2,5 @@
   <action id="Git.Pull" />
   <action id="ChangesView.Commit" />
   <action id="Git.Fetch" />
+  <action id="Git.Merge" />
 </list>
