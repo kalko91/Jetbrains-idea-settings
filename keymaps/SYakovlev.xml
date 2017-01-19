@@ -1,4 +1,8 @@
 <keymap version="1" name="SYakovlev" parent="Default for XWin">
+  <action id="ChangesView.Commit">
+    <keyboard-shortcut first-keystroke="ctrl k" />
+  </action>
+  <action id="CheckinProject" />
   <action id="FindUsagesInFile" />
   <action id="MaximizeToolWindow" />
   <action id="QuickList.git">
