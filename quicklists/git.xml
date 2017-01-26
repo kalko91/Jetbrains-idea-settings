@@ -3,4 +3,5 @@
   <action id="ChangesView.Commit" />
   <action id="Git.Fetch" />
   <action id="Git.Merge" />
+  <action id="Git.CompareWithBranch" />
 </list>
