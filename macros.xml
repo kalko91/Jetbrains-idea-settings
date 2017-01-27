@@ -1,0 +1,11 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="Update Stage">
+      <action id="Git.Branches" />
+      <action id="QuickList.git" />
+      <shortuct text="ENTER" />
+      <action id="Vcs.Push" />
+      <action id="Git.Branches" />
+    </macro>
+  </component>
+</application>
