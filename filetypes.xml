@@ -10,6 +10,7 @@
       <mapping ext="ttf" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
       <mapping ext="estimate" type="PLAIN_TEXT" />
+      <mapping ext="logs" type="PLAIN_TEXT" />
       <mapping ext="data" type="PLAIN_TEXT" />
       <mapping ext="rm" type="PLAIN_TEXT" />
     </extensionMap>
